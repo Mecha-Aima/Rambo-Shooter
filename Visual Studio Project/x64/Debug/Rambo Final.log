@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\ms\Desktop\Final Game\Rambo Final\elements.h(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ms\Desktop\Final Game\Rambo Final\game.h(51,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Rambo Final.vcxproj -> C:\Users\ms\Desktop\Final Game\Rambo Final\x64\Debug\Rambo Final.exe
